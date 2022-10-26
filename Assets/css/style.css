@@ -3,9 +3,11 @@
 .center
 {
     text-align:center;
+    color: white;
 }
 .justify{
     text-align: justify;
+    color: white;
 }
 
 .container{
@@ -22,7 +24,7 @@
 #menu li a {
 
     text-decoration: "none";
-    color: black;
+    color:seashell;
 }
 #menu li a:hover{
     color: darksalmon;
@@ -38,6 +40,22 @@
 
 .mb-50{
     margin-bottom: 50px;
+    color: white;
 }
 /* Estilo da pagina de contato.html*/
+.ml-50{
+    margin-left: 50px;
+    color: white;
+}
 
+body {
+    background-color:black
+    }
+.titulo{
+    color: gold;
+}
+    
+
+        
+        
+    
